@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onfishe.github.io/sitemap.html
+Sitemap: https://onfishe.github.io/app/sitemap.html
+Sitemap: https://onfishe.github.io/assets/sitemap.html
+Sitemap: https://onfishe.github.io/includes/sitemap.html
+Sitemap: https://onfishe.github.io/src/sitemap.html
